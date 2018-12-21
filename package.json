@@ -1,6 +1,6 @@
 {
   "name": "ih-elastic-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Influence Health basic nodejs elasticsearch client that hooks into ih-log and ih-config",
   "main": "./lib/index.js",
   "private": false,

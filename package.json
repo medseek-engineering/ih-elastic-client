@@ -1,6 +1,6 @@
 {
   "name": "ih-elastic-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Influence Health basic nodejs elasticsearch client that hooks into ih-log and ih-config",
   "main": "./lib/index.js",
   "private": false,
@@ -34,7 +34,7 @@
     "ih-config": "~1.0.0",
     "ih-log": "~1.0.0",
     "bluebird": "~3.4.5",
-    "q-io": "~1.13.2",
+    "request-promise": "^4.2.2",
     "lodash": "~4.16.6",
     "uuid": "~2.0.3"
   }
